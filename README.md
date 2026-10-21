@@ -1,6 +1,6 @@
 # QA Engineering 
 
-Welcome to my Quality Assurance portfolio. This repository demonstrates practical skills in various testing methodologies acquired during the "Software Verification and Testing" course at RTU MIREA.
+This repository demonstrates practical skills in various testing methodologies acquired during the "Software Verification and Testing" course at RTU MIREA.
 
 ## Objective
 Showcase proficiency in the full software testing lifecycle: from requirement analysis and test design to execution, defect reporting, and advanced verification techniques like mutation testing.
